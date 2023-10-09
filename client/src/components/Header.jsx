@@ -26,11 +26,11 @@ export default function Header() {
     <header className='bg-slate-200 shadow-md'>
       <div className='flex justify-between items-center max-w-6xl mx-auto p-3'>
   <Link to='/' className='flex items-center'>
-  <img
+  {/* <img
       src="/assets/shashank.png"
       alt="shashank's-estates"
       className='w-10 h-10 rounded-full ml-0 mr-2 overflow-hidden inline-block'
-    />
+    /> */}
     <h1 className='font-bold text-sm sm:text-xl cursor-pointer'>
       <span className='text-slate-500'>Shashank's</span>
       <span className='text-slate-700'>Estate</span>
