@@ -27,7 +27,7 @@ export default function Header() {
       <div className='flex justify-between items-center max-w-6xl mx-auto p-3'>
   <Link to='/' className='flex items-center'>
   <img
-      src="shashank.png"
+      src="/assets/shashank.png"
       alt="shashank's-estates"
       className='w-10 h-10 rounded-full ml-0 mr-2 overflow-hidden inline-block'
     />
